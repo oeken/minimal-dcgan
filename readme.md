@@ -9,7 +9,7 @@ This is an implementation of a Deep Convolutional Generative Adversarial Network
 # Example Outputs
 Digit generations are as following after *5000* and *20000* iterations:
 
-<img src="models/dcgan_z50_2/res/0005000.png" width="280">
-<img src="models/dcgan_z50_2/res/0020000.png" width="280">
+<img src="models/dcgan_z50_2/res/0005000.png" width="240">
+<img src="models/dcgan_z50_2/res/0020000.png" width="240">
 
 
