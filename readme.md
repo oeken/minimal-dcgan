@@ -13,3 +13,5 @@ Digit generations are as following after *5000* and *20000* iterations:
 <img src="models/dcgan_z50_2/res/0020000.png" width="240">
 
 
+
+
